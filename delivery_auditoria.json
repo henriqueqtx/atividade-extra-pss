@@ -1,0 +1,20 @@
+{"usuario":"henriqueqtx","data":"2026-06-23","hora":"13:48:49.266524200","operacao":"Falha no cadastro de usuário (Usuário)","dados":{"resultado":"Erro de validação: Senha deve conter de 8 a 64 caracteres"}}
+{"usuario":"henriqueqtx","data":"2026-06-23","hora":"13:48:55.111354400","operacao":"Cadastro de usuário (Usuário)","dados":{"resultado":"Cadastro realizado. Perfil: ADMINISTRADOR, Situacao: AUTORIZADO"}}
+{"usuario":"henriqueqtx","data":"2026-06-23","hora":"13:49:11.261430600","operacao":"Login de usuario (Sessão)","dados":{"resultado":"Sucesso. Perfil: ADMINISTRADOR"}}
+{"usuario":"henriqueqtx","data":"2026-06-23","hora":"13:52:09.907274200","operacao":"Login de usuario (Sessão)","dados":{"resultado":"Sucesso. Perfil: ADMINISTRADOR"}}
+{"usuario":"henriqueqtx","data":"2026-06-23","hora":"13:52:25.956963","operacao":"Falha de autenticação (Sessão)","dados":{"resultado":"Credenciais invalidas"}}
+{"usuario":"henriqueqt","data":"2026-06-23","hora":"13:52:35.183209400","operacao":"Falha de autenticação (Sessão)","dados":{"resultado":"Credenciais invalidas"}}
+{"usuario":"henriqueqtx","data":"2026-06-23","hora":"14:33:07.165689500","operacao":"Login de usuario (Sessão)","dados":{"resultado":"Sucesso. Perfil: ADMINISTRADOR"}}
+{"usuario":"clayton","data":"2026-06-23","hora":"14:33:45.082490100","operacao":"Cadastro de usuário (Usuário)","dados":{"resultado":"Cadastro realizado. Perfil: ATENDENTE, Situacao: PENDENTE"}}
+{"usuario":"henriqueqtx","data":"2026-06-23","hora":"14:33:52.257272900","operacao":"Alteração de perfil de usuário (Usuário)","dados":{"resultado":"Perfil alterado para ADMINISTRADOR","usuario_afetado":"henriqueqtx"}}
+{"usuario":"henriqueqtx","data":"2026-06-23","hora":"14:33:58.399298500","operacao":"Alteração de perfil de usuário (Usuário)","dados":{"resultado":"Perfil alterado para ATENDENTE","usuario_afetado":"clayton"}}
+{"usuario":"henriqueqtx","data":"2026-06-23","hora":"14:33:59.614305100","operacao":"Autorização de usuário (Usuário)","dados":{"resultado":"Situação alterada para AUTORIZADO","usuario_afetado":"clayton"}}
+{"usuario":"clayton","data":"2026-06-23","hora":"14:34:12.798496900","operacao":"Login de usuario (Sessão)","dados":{"resultado":"Sucesso. Perfil: ATENDENTE"}}
+{"usuario":"henriqueqtx","data":"2026-06-23","hora":"14:34:37.833121200","operacao":"Login de usuario (Sessão)","dados":{"resultado":"Sucesso. Perfil: ADMINISTRADOR"}}
+{"usuario":"henriqueqtx","data":"2026-06-23","hora":"14:34:43.469848600","operacao":"Alteração de perfil de usuário (Usuário)","dados":{"resultado":"Perfil alterado para ADMINISTRADOR","usuario_afetado":"clayton"}}
+{"usuario":"teste1","data":"2026-06-23","hora":"14:35:12.185840900","operacao":"Cadastro de usuário (Usuário)","dados":{"resultado":"Cadastro realizado. Perfil: ATENDENTE, Situacao: PENDENTE"}}
+{"usuario":"teste1","data":"2026-06-23","hora":"14:35:45.432232600","operacao":"Falha de autenticação (Sessão)","dados":{"resultado":"Tentativa de acesso nao autorizada (Usuario pendente ou nao autorizado)"}}
+{"usuario":"henriqueqtx","data":"2026-06-23","hora":"14:35:54.170215800","operacao":"Login de usuario (Sessão)","dados":{"resultado":"Sucesso. Perfil: ADMINISTRADOR"}}
+{"usuario":"henriqueqtx","data":"2026-06-23","hora":"14:35:59.863657600","operacao":"Desautorização de usuário (Usuário)","dados":{"resultado":"Situação alterada para NAO_AUTORIZADO","usuario_afetado":"teste1"}}
+{"usuario":"teste1","data":"2026-06-23","hora":"14:36:14.884466100","operacao":"Falha de autenticação (Sessão)","dados":{"resultado":"Tentativa de acesso nao autorizada (Usuario pendente ou nao autorizado)"}}
+{"usuario":"teste1","data":"2026-06-23","hora":"14:36:17.349151800","operacao":"Falha de autenticação (Sessão)","dados":{"resultado":"Tentativa de acesso nao autorizada (Usuario pendente ou nao autorizado)"}}

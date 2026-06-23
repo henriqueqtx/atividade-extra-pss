@@ -1,0 +1,7 @@
+com\ufes\delivery\PresentersTest$MockCadastroView.class
+com\ufes\delivery\PresentersTest$MockGestaoUsuariosView.class
+com\ufes\delivery\PresentersTest$MockLoginView.class
+com\ufes\delivery\UsuarioRepositoryTest.class
+com\ufes\delivery\UsuarioTest.class
+com\ufes\delivery\PresentersTest.class
+com\ufes\delivery\PresentersTest$MockLogger.class
