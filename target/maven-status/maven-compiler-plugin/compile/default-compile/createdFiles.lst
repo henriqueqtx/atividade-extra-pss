@@ -1,0 +1,17 @@
+com\ufes\delivery\model\CupomDescontoPedido.class
+com\ufes\delivery\model\Cliente.class
+com\ufes\delivery\desconto\taxa\entrega\FormaDescontoValorPedido.class
+com\ufes\delivery\configuracao\ConfiguracaoService.class
+com\ufes\delivery\repository\ICupomRepository.class
+com\ufes\delivery\desconto\taxa\entrega\FormaDescontoTaxaPorBairro.class
+com\ufes\delivery\model\CupomDescontoEntrega.class
+com\ufes\delivery\desconto\taxa\entrega\CalculadoraTaxaDescontoPedidoService.class
+com\ufes\delivery\repository\CupomRepositoryEmMemoria.class
+com\ufes\delivery\util\UsuarioLogadoService.class
+com\ufes\delivery\desconto\taxa\entrega\FormaDescontoTipoItem.class
+com\ufes\delivery\desconto\pedido\AplicadorCupomPedidoService.class
+com\ufes\delivery\UmCasoDeUsoDePedido.class
+com\ufes\delivery\desconto\taxa\entrega\FormaDescontoTaxaPorTipoCliente.class
+com\ufes\delivery\model\Pedido.class
+com\ufes\delivery\model\Item.class
+com\ufes\delivery\desconto\taxa\entrega\IFormaDescontoTaxaEntrega.class

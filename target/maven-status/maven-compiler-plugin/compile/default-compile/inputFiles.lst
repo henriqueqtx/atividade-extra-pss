@@ -1,0 +1,17 @@
+C:\Users\celov\Documents\GitHub\atividade-cr2\src\main\java\com\ufes\delivery\configuracao\ConfiguracaoService.java
+C:\Users\celov\Documents\GitHub\atividade-cr2\src\main\java\com\ufes\delivery\desconto\pedido\AplicadorCupomPedidoService.java
+C:\Users\celov\Documents\GitHub\atividade-cr2\src\main\java\com\ufes\delivery\desconto\taxa\entrega\CalculadoraTaxaDescontoPedidoService.java
+C:\Users\celov\Documents\GitHub\atividade-cr2\src\main\java\com\ufes\delivery\desconto\taxa\entrega\FormaDescontoTaxaPorBairro.java
+C:\Users\celov\Documents\GitHub\atividade-cr2\src\main\java\com\ufes\delivery\desconto\taxa\entrega\FormaDescontoTaxaPorTipoCliente.java
+C:\Users\celov\Documents\GitHub\atividade-cr2\src\main\java\com\ufes\delivery\desconto\taxa\entrega\FormaDescontoTipoItem.java
+C:\Users\celov\Documents\GitHub\atividade-cr2\src\main\java\com\ufes\delivery\desconto\taxa\entrega\FormaDescontoValorPedido.java
+C:\Users\celov\Documents\GitHub\atividade-cr2\src\main\java\com\ufes\delivery\desconto\taxa\entrega\IFormaDescontoTaxaEntrega.java
+C:\Users\celov\Documents\GitHub\atividade-cr2\src\main\java\com\ufes\delivery\model\Cliente.java
+C:\Users\celov\Documents\GitHub\atividade-cr2\src\main\java\com\ufes\delivery\model\CupomDescontoEntrega.java
+C:\Users\celov\Documents\GitHub\atividade-cr2\src\main\java\com\ufes\delivery\model\CupomDescontoPedido.java
+C:\Users\celov\Documents\GitHub\atividade-cr2\src\main\java\com\ufes\delivery\model\Item.java
+C:\Users\celov\Documents\GitHub\atividade-cr2\src\main\java\com\ufes\delivery\model\Pedido.java
+C:\Users\celov\Documents\GitHub\atividade-cr2\src\main\java\com\ufes\delivery\repository\CupomRepositoryEmMemoria.java
+C:\Users\celov\Documents\GitHub\atividade-cr2\src\main\java\com\ufes\delivery\repository\ICupomRepository.java
+C:\Users\celov\Documents\GitHub\atividade-cr2\src\main\java\com\ufes\delivery\UmCasoDeUsoDePedido.java
+C:\Users\celov\Documents\GitHub\atividade-cr2\src\main\java\com\ufes\delivery\util\UsuarioLogadoService.java
